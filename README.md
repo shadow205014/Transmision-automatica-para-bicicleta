@@ -13,3 +13,4 @@ Utilizando un Arduino Uno como intermediario para ejecutar todos los calculos co
 La pantalla muestra la velocidad y la distancia total recorrida, esta no esta incluida directamente en la placa sino que sale hacia el frente para la interaccion con el usuario
 
 ![Proyecto 1 v1](https://github.com/user-attachments/assets/95665714-da4d-47b1-a672-483ec4c6d5d9)
+El servomotor utilizado tiene quener la fuerza necesaria para realizar el cambio de la transmision sin ningun problema alimentandolo con una fuente de 9v aplicando solo 8.1v 

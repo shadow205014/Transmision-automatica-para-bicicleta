@@ -17,4 +17,5 @@ El servomotor utilizado tiene quener la fuerza necesaria para realizar el cambio
 
 Diseño Inicial Tinkercad
 
-![image](https://github.com/user-attachments/assets/819f2eec-b5cf-46d6-8402-1f7479e68052)
+https://github.com/user-attachments/assets/97dc54c2-5af9-4735-a51e-1c9624b1c550
+

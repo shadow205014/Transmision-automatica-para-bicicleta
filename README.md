@@ -1,4 +1,4 @@
-# TAC
+# Transmision automatica para bicicleta
 InnovaTecNM project
 Diseño de prototipo para una trasmision automatica para bicicletas
 
